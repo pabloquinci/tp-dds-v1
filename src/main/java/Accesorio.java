@@ -1,8 +1,8 @@
 
 public class Accesorio extends Prenda {
 
-	public Accesorio(String nombre, TipoPrenda tipo) {
-		super(nombre,tipo);
+	public Accesorio(String nombre, TipoPrenda tipo,int temperaturaUso) {
+		super(nombre,tipo,temperaturaUso);
 	}
 
 }
